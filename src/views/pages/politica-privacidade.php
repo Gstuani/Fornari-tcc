@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Política de Privacidade</h1>
-    <a href="index.html"><button>Página Inicial</button></a><br>
-    <a href="contato.html"><button>Página de Contato</button></a>
+    <a href="index.php"><button>Página Inicial</button></a><br>
+    <a href="contato.php"><button>Página de Contato</button></a>
 </body>
 </html>

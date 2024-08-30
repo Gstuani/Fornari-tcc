@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Página de Contato</h1>
-    <a href="index.html"><button>Página Inicial</button></a><br>
-    <a href="sobre-nos.html"><button>Página de Sobre Nós</button></a>
+    <a href="index.php"><button>Página Inicial</button></a><br>
+    <a href="sobre-nos.php"><button>Página de Sobre Nós</button></a>
 </body>
 </html>

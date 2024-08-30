@@ -7,10 +7,10 @@
 </head>
 <body>
     <h1>Página de Produto</h1>
-    <a href="categoria.html"><button>Página de Categoria</button></a><br>
-    <a href="carrinho.html"><button>Página de Carrinho</button></a><br>
-    <a href="checkout.html"><button>Página de Checkout</button></a><br>
-    <a href="pesquisa.html"><button>Página de Pesquisa</button></a><br>
-    <a href="index.html"><button>Página Inicial</button></a>
+    <a href="categoria.php"><button>Página de Categoria</button></a><br>
+    <a href="carrinho.php"><button>Página de Carrinho</button></a><br>
+    <a href="checkout.php"><button>Página de Checkout</button></a><br>
+    <a href="pesquisa.php"><button>Página de Pesquisa</button></a><br>
+    <a href="index.php"><button>Página Inicial</button></a>
 </body>
 </html>

@@ -7,9 +7,9 @@
 </head>
 <body>
     <h1>Página de Registro</h1>
-    <a href="index.html"><button>Página Inicial</button></a><br>
-    <a href="perfil.html"><button>Página de Perfil</button></a><br>
-    <a href="recuperar-senha.html"><button>Recuperar Senha</button></a><br>
-    <a href="pesquisa.html"><button>Página de Pesquisa</button></a>
+    <a href="index.php"><button>Página Inicial</button></a><br>
+    <a href="perfil.php"><button>Página de Perfil</button></a><br>
+    <a href="recuperar-senha.php"><button>Recuperar Senha</button></a><br>
+    <a href="pesquisa.php"><button>Página de Pesquisa</button></a>
 </body>
 </html>

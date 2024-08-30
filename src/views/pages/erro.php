@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Página de Erro 404</h1>
-    <a href="index.html"><button>Página Inicial</button></a><br>
-    <a href="pesquisa.html"><button>Página de Pesquisa</button></a>
+    <a href="index.php"><button>Página Inicial</button></a><br>
+    <a href="pesquisa.php"><button>Página de Pesquisa</button></a>
 </body>
 </html>

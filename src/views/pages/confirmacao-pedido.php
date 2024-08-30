@@ -7,8 +7,8 @@
 </head>
 <body>
     <h1>Página de Confirmação de Pedido</h1>
-    <a href="index.html"><button>Página Inicial</button></a><br>
-    <a href="perfil.html"><button>Página de Perfil</button></a><br>
-    <a href="carrinho.html"><button>Página de Carrinho</button></a>
+    <a href="index.php"><button>Página Inicial</button></a><br>
+    <a href="perfil.php"><button>Página de Perfil</button></a><br>
+    <a href="carrinho.php"><button>Página de Carrinho</button></a>
 </body>
 </html>
